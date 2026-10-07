@@ -1,7 +1,7 @@
 # Analyzing Connectivity in a Human DNA-Repair Protein Network Using Breadth-First Search
 
 ## Research Question
-### Which protein removals most disrupt connectivity in a human DNA-repair protein interaction network?
+### Which protein removals most significantly disrupt connectivity in a human DNA-repair protein interaction network?
 
 ### Background:
 DNA repair relies on proteins working together to detect DNA damage and coordinate its repair. These proteins participate in different repair processes, and interactions between them can connect those processes. A protein’s position in the interaction network may matter beyond how many interactions it has, since some proteins may connect groups that would otherwise be separate. This project will examine how removing individual proteins changes connectivity in the documented human DNA-repair network.
@@ -94,4 +94,4 @@ I used Claude Opus 5.5 to assist with the following parts of this proposal:
 4. **Repository structure:** I used Claude to format the planned repository structure and identify any file types or folders I may have missed. This helped me present the structure clearly and account for the project’s code, data, tests, and documentation.
 
 ## Other references used:
-Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to algorithms (3rd ed.). MIT Press.
+Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to algorithms* (3rd ed.). MIT Press.
